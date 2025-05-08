@@ -1,6 +1,6 @@
 # HR-Salary-Dashboard--Train-the-Dataset-and-Predict-Salary
 
-A machine learning-based model that helps HR professionals predict their expected salary when switching jobs. This is designed to assist in decision-making and career planning.
+A machine learning-based model that helps HR professionals to predict their expected salary when switching jobs. This is designed to assist in decision-making and career planning.
 ________________________________________
 # Project Objective:
 
